@@ -1,3 +1,4 @@
+
 # CampusOS
 
 Secure hackathon MVP for a live campus operations digital twin. It uses a built-in simulator for a dependable demo and provides an Oracle-ready schema for production storage.
@@ -27,3 +28,6 @@ The API uses strict request schemas, a small JSON payload limit, Helmet headers,
 ## Demo flow
 
 Open the dashboard, use the Digital Twin, inspect the Library leak in Anomaly Center, test an HVAC scenario in What-if Simulator, then approve the water-line recommendation in Action Center. No physical device is ever controlled in this MVP.
+
+# SIH-Intercollege-hackathlon-2026
+Smart campus os
